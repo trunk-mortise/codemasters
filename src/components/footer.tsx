@@ -133,7 +133,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-200 pt-4 text-center text-xs text-gray-500 dark:border-gray-700 dark:text-gray-400">
-          &copy; 2024 Coding Jitsu. All rights reserved.
+          &copy; 2024 Codemasters. All rights reserved.
         </div>
       </div>
     </footer>
